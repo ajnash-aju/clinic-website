@@ -1,0 +1,55 @@
+.header{
+   
+   
+}
+.home-sec{
+
+background-image: url(physio-1.jpeg);
+
+background-size: 100%;
+height: 290px;
+ background-repeat:no-repeatdisplay compact;
+}
+.welcome-div{
+
+    height: 15em;
+    background-color: rgba(0, 0, 0, 0.7);
+   border-radius: 25px;
+  
+}
+.contc{
+margin-top: 1.2em;
+    background-color: rgba(7, 6, 6, 0.9);
+    border-radius: 25px;
+    font-size: 12px;
+    width: 4em;
+
+}
+.card-div{
+    height: 30em;
+    
+}
+.image{
+
+background-image: url(g892.png);
+background-size: 100%;
+height: 275px;
+ background-repeat:no-repeatdisplay compact;
+
+}
+.contact{
+   padding-top: 12px;
+    background-image: url(physio-3.jpg);
+    background-size: 100%;
+    height: 225px;
+     background-repeat:no-repeatdisplay compact;
+}
+.detail{
+background-color: rgba(1, 217, 224, 0.8);
+width: 95%;
+height: 200px;
+border-radius: 10px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+color: rgb(255, 255, 255);
+}
