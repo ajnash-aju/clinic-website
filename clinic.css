@@ -1,18 +1,18 @@
 .header{
    
-   
+   background-color: rgb(102, 199, 202);
 }
 .home-sec{
 
 background-image: url(physio-1.jpeg);
 
 background-size: 100%;
-height: 290px;
+height: 250px;
  background-repeat:no-repeatdisplay compact;
 }
 .welcome-div{
 
-    height: 15em;
+    height: 200px;
     background-color: rgba(0, 0, 0, 0.7);
    border-radius: 25px;
   
@@ -43,13 +43,28 @@ height: 275px;
     background-size: 100%;
     height: 225px;
      background-repeat:no-repeatdisplay compact;
+     margin-bottom: 20px;
 }
 .detail{
-background-color: rgba(1, 217, 224, 0.8);
+background-color: rgba(40, 63, 65, 0.8);
 width: 95%;
 height: 200px;
 border-radius: 10px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-weight: bold;
-color: rgb(255, 255, 255);
+color: rgb(56, 49, 49);
+}
+.card-body{
+    background: rgba(118, 173, 175, 0.5);
+    color: rgb(12, 151, 185);
+}
+.toggle{
+    position: fixed;
+    z-index: 1;
+    width: 30px;
+    height: 30px;
+    background: rgb(0, 0, 0);
+    margin-left: 90%;
+    border-radius: 50px;
+    margin-top: 30px;
 }
