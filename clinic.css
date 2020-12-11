@@ -61,10 +61,10 @@ color: rgb(56, 49, 49);
 .toggle{
     position: fixed;
     z-index: 1;
-    width: 30px;
+    width: 50px;
     height: 30px;
-    background: rgb(0, 0, 0);
+    background: rgb(56, 54, 54,.4);
     margin-left: 90%;
     border-radius: 50px;
-    margin-top: 30px;
+    margin-top: 9em;
 }
